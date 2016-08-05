@@ -76,7 +76,6 @@
 
   h2 a:link {
     text-align: center;
-    color: #eee;
     font-family: 'Pacifico', cursive;
     padding: 20px;
   }
@@ -90,6 +89,7 @@
     border-radius: 20px 20px 20px 20px;
     float: right;
     margin-right: 750px;
+    margin-top: 5%;
   }
 
   #about {
@@ -104,14 +104,32 @@
     margin-right: 35%;
   }
 
+  td {
+    color: #4D5D53;
+    border-radius: 20px 20px 20px 20px;
+    background-color: #FFF;
+    text-shadow: black 50px;
+    font-family: 'Rubik', sans-serif;
+    font-size: 20px;
+    margin: 20px 20% 20px 20%;
+    padding: 20px 20px 20px 20px;
+    float: left;
+    display: block;
+  }
+
+  td>a {
+    text-shadow: black 50px;
+    font-family: 'Quicksand', sans-serif, bold;
+    font-size: 20px;
+  }
+
   #cat {
     width: 600px;
     height: auto;
     display: block;
     margin-left: 0px;
     margin-right: auto;
-    margin-top: -600px;
-    margin-bottom: 75px;
+    margin-top: -725px;
   }
 }
 /**** Medium screen media ****/
@@ -204,6 +222,7 @@
     border-radius: 20px 20px 20px 20px;
     float: right;
     margin-right: 600px;
+    margin-top: 5%;
   }
 
   #about {
@@ -216,6 +235,24 @@
     display: block;
     margin-left: 35%;
     margin-right: 35%;
+  }
+
+  td {
+    color: #4D5D53;
+    border-radius: 20px 20px 20px 20px;
+    background-color: #FFF;
+    text-shadow: black 50px;
+    font-family: 'Rubik', sans-serif;
+    font-size: 20px;
+    margin: 20px 20px 20px 20px;
+    padding: 20px 20px 20px 20px;
+    float: left;
+  }
+
+  td>a {
+    text-shadow: black 50px;
+    font-family: 'Quicksand', sans-serif, bold;
+    font-size: 20px;
   }
 
   #cat {
@@ -324,6 +361,24 @@
     margin-right: 35%;
   }
 
+  td {
+    color: #4D5D53;
+    border-radius: 20px 20px 20px 20px;
+    background-color: #FFF;
+    text-shadow: black 50px;
+    font-family: 'Rubik', sans-serif;
+    font-size: 20px;
+    margin: 20px 20px 20px 20px;
+    padding: 20px 20px 20px 20px;
+    float: left;
+  }
+
+  td>a {
+    text-shadow: black 50px;
+    font-family: 'Quicksand', sans-serif, bold;
+    font-size: 20px;
+  }
+
   #cat {
     width: auto;
     height: auto;
@@ -427,6 +482,24 @@
     display: block;
     margin-left: 35%;
     margin-right: 35%;
+  }
+
+  td {
+    color: #4D5D53;
+    border-radius: 20px 20px 20px 20px;
+    background-color: #FFF;
+    text-shadow: black 50px;
+    font-family: 'Rubik', sans-serif;
+    font-size: 20px;
+    margin: 20px 20px 20px 20px;
+    padding: 20px 20px 20px 20px;
+    float: left;
+  }
+
+  td>a {
+    text-shadow: black 50px;
+    font-family: 'Quicksand', sans-serif, bold;
+    font-size: 20px;
   }
 
   #cat {
