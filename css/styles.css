@@ -80,10 +80,6 @@
     padding: 20px;
   }
 
-  .about {
-    background-color: black;
-  }
-
   #project {
     background-color: #FFF;
     border-color: #FFF;
@@ -286,7 +282,7 @@
     float: left;
     display: block;
     margin-left: 42%;
-    margin-right: 35%;
+    margin-right: 36%;
   }
 
   #cat {
