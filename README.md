@@ -14,7 +14,7 @@ _{I made these webpages to display my portfolio and what I am capable of as a pr
 * _the link is: https://github.com/ElysiaAvery/portfolio_
 * _Open again in Atom or similar program_
 
-_{This code was created with the use of Atom. The codes used were HTML, CSS, and Bootstrap. This site is best viewed on Google Chrome.}_
+_{This code was created with the use of Atom. The codes used were HTML, CSS, and Bootstrap. This site is best viewed on Google Chrome.The live site can be viewed [here](https://elysiaavery.github.io/portfolio/).}_
 
 ## Known Bugs
 
